@@ -6,7 +6,7 @@ Trabalho desenvolvido para a disciplina de **Infraestrutura de Tecnologia da Inf
 
 ## Integrantes
 
--
+- Ricardo Klug
 -
 -
 -
